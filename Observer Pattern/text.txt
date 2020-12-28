@@ -1,0 +1,10 @@
+here i have class for weather station 
+and this weather station can change from time to another 
+and i have some listeners like 
+1 - class display graph for weather change
+2 - class display last value
+3 - class display ........
+
+and in future need to add some listener but should change the code so this 
+what happen in observable class ====>> see in code 
+
